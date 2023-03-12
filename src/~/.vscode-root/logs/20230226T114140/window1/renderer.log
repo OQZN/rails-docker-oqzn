@@ -1,0 +1,24 @@
+2023-02-26 11:41:48.503 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-02-26 11:41:48.952 [warning] Skipping extension /c:/Users/ultra/.vscode/extensions/ms-vscode.js-debug-companion-1.0.18 in favour of the builtin extension /d:/Users/ultra/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug-companion.
+2023-02-26 11:41:49.120 [error] [File Watcher (node.js)] Failed to watch \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\~\.vscode-root\User for changes using fs.watch() (Error: EISDIR: illegal operation on a directory, watch '\\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\~\.vscode-root\User')
+2023-02-26 11:41:49.470 [error] [File Watcher (node.js)] Failed to watch \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\~\.vscode-root\User\snippets for changes using fs.watch() (Error: EISDIR: illegal operation on a directory, watch '\\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\~\.vscode-root\User\snippets')
+2023-02-26 11:41:51.650 [info] [perf] Render performance baseline is 25ms
+2023-02-26 11:42:45.857 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-02-26 11:42:46.102 [warning] Skipping extension /c:/Users/ultra/.vscode/extensions/ms-vscode.js-debug-companion-1.0.18 in favour of the builtin extension /d:/Users/ultra/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug-companion.
+2023-02-26 11:42:46.369 [error] [File Watcher (node.js)] Failed to watch \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\~\.vscode-root\User for changes using fs.watch() (Error: EISDIR: illegal operation on a directory, watch '\\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\~\.vscode-root\User')
+2023-02-26 11:42:46.454 [error] [File Watcher (parcel)] Unexpected error: Failed to read changes (EUNKNOWN) (path: \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src)
+2023-02-26 11:42:46.472 [error] [File Watcher (universal)] restarting watcher after error: Failed to read changes
+2023-02-26 11:42:46.589 [warning] No search provider registered for scheme: file, waiting
+2023-02-26 11:42:46.748 [error] [File Watcher (parcel)] Unexpected error: Failed to read changes (EUNKNOWN) (path: \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src)
+2023-02-26 11:42:46.753 [error] [File Watcher (universal)] restarting watcher after error: Failed to read changes
+2023-02-26 11:42:47.010 [error] [File Watcher (parcel)] Unexpected error: Failed to read changes (EUNKNOWN) (path: \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src)
+2023-02-26 11:42:47.011 [error] [File Watcher (universal)] restarting watcher after error: Failed to read changes
+2023-02-26 11:42:47.219 [error] [File Watcher (parcel)] Unexpected error: Failed to read changes (EUNKNOWN) (path: \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src)
+2023-02-26 11:42:47.220 [error] [File Watcher (universal)] restarting watcher after error: Failed to read changes
+2023-02-26 11:42:47.431 [error] [File Watcher (parcel)] Unexpected error: Failed to read changes (EUNKNOWN) (path: \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src)
+2023-02-26 11:42:47.433 [error] [File Watcher (universal)] restarting watcher after error: Failed to read changes
+2023-02-26 11:42:47.637 [error] [File Watcher (parcel)] Unexpected error: Failed to read changes (EUNKNOWN) (path: \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src)
+2023-02-26 11:42:47.638 [error] [File Watcher (universal)] gave up attempting to restart watcher after error: Failed to read changes
+2023-02-26 11:42:47.678 [error] [File Watcher (node.js)] Failed to watch \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\~\.vscode-root\User for changes using fs.watch() (Error: EISDIR: illegal operation on a directory, watch '\\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\~\.vscode-root\User')
+2023-02-26 11:42:47.691 [error] [File Watcher (node.js)] Failed to watch \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\~\.vscode-root\User\snippets for changes using fs.watch() (Error: EISDIR: illegal operation on a directory, watch '\\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\~\.vscode-root\User\snippets')
+2023-02-26 11:42:48.786 [info] [perf] Render performance baseline is 26ms

@@ -1,0 +1,23 @@
+2023-02-26 11:40:57.712 [info] update#setState idle
+2023-02-26 11:40:57.771 [error] [File Watcher (node.js)] Failed to watch \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\home\oqzn\Documents\rails_docker\src\User for changes using fs.watch() (Error: EISDIR: illegal operation on a directory, watch '\\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\home\oqzn\Documents\rails_docker\src\User')
+2023-02-26 11:40:59.493 [error] [storage state.vscdb] exec(): Error: SQLITE_BUSY: database is locked
+2023-02-26 11:40:59.494 [error] [storage state.vscdb] open(): Unable to open DB due to Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:02.063 [error] [File Watcher (node.js)] Failed to watch \\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\home\oqzn\Documents\rails_docker\src\User for changes using fs.watch() (Error: EISDIR: illegal operation on a directory, watch '\\wsl.localhost\Ubuntu\home\oqzn\Documents\rails_docker\src\home\oqzn\Documents\rails_docker\src\User')
+2023-02-26 11:41:03.284 [error] [storage state.vscdb] exec(): Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:03.286 [error] [storage state.vscdb] open(): Unable to open DB due to Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:03.626 [error] [storage state.vscdb] exec(): Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:03.629 [error] [storage state.vscdb] open(): Unable to open DB due to Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:05.086 [error] [storage state.vscdb] exec(): Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:05.087 [error] [storage state.vscdb] open(): Unable to use backup due to Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:05.351 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-02-26 11:41:05.361 [info] [UtilityProcess id: 1, type: extensionHost, pid: 28184]: successfully created
+2023-02-26 11:41:07.350 [error] [storage state.vscdb] exec(): Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:07.352 [error] [storage state.vscdb] open(): Unable to open DB due to Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:09.157 [error] [storage state.vscdb] exec(): Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:09.164 [error] [storage state.vscdb] open(): Unable to use backup due to Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:21.189 [info] [UtilityProcess id: 1, type: extensionHost, pid: 28184]: waiting to exit...
+2023-02-26 11:41:21.194 [info] [UtilityProcess id: 1, type: extensionHost, pid: 28184]: received exit event with code 0
+2023-02-26 11:41:21.195 [info] Extension host with pid 28184 exited with code: 0, signal: unknown.
+2023-02-26 11:41:23.053 [error] [storage state.vscdb] exec(): Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:23.053 [error] [storage state.vscdb] exec(): Error: SQLITE_BUSY: database is locked
+2023-02-26 11:41:23.054 [error] Error: SQLITE_BUSY: database is locked

@@ -1,0 +1,66 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file://wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1677379301132": "__default__profile__"
+        }
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.machineId": "9a4ea079953b9f8196d2e2d454e031c694fefb9a167b65fd2cefeeaedebaac9e",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file://wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1677379301132"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file://wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src",
+            "backupPath": "\\\\wsl.localhost\\Ubuntu\\home\\oqzn\\Documents\\rails_docker\\src\\~\\.vscode-root\\Backups\\7e296f95b5f317246de76f2c48213d2a",
+            "uiState": {
+                "mode": 1,
+                "x": 716,
+                "y": 130,
+                "width": 1026,
+                "height": 770
+            }
+        },
+        "openedWindows": []
+    }
+}

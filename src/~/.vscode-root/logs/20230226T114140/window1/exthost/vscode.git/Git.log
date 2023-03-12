@@ -1,0 +1,86 @@
+2023-02-26 11:41:49.865 [info] Log level: Info
+2023-02-26 11:41:49.866 [info] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2023-02-26 11:41:49.866 [info] Using git "2.39.1.windows.1" from "C:\Program Files\Git\cmd\git.exe"
+2023-02-26 11:42:49.190 [info] Log level: Info
+2023-02-26 11:42:49.191 [info] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2023-02-26 11:42:49.191 [info] Using git "2.39.1.windows.1" from "C:\Program Files\Git\cmd\git.exe"
+2023-02-26 11:42:49.246 [info] > git rev-parse --show-toplevel [80ms]
+2023-02-26 11:42:49.247 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:49.406 [info] > git rev-parse --show-toplevel [136ms]
+2023-02-26 11:42:49.407 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:49.507 [info] > git rev-parse --show-toplevel [88ms]
+2023-02-26 11:42:49.508 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:49.586 [info] > git rev-parse --show-toplevel [72ms]
+2023-02-26 11:42:49.587 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:49.670 [info] > git rev-parse --show-toplevel [77ms]
+2023-02-26 11:42:49.671 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:49.741 [info] > git rev-parse --show-toplevel [64ms]
+2023-02-26 11:42:49.742 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:49.809 [info] > git rev-parse --show-toplevel [62ms]
+2023-02-26 11:42:49.810 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:49.888 [info] > git rev-parse --show-toplevel [73ms]
+2023-02-26 11:42:49.888 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:49.963 [info] > git rev-parse --show-toplevel [69ms]
+2023-02-26 11:42:49.964 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:50.040 [info] > git rev-parse --show-toplevel [69ms]
+2023-02-26 11:42:50.040 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:50.109 [info] > git rev-parse --show-toplevel [63ms]
+2023-02-26 11:42:50.110 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:50.174 [info] > git rev-parse --show-toplevel [59ms]
+2023-02-26 11:42:50.175 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:50.243 [info] > git rev-parse --show-toplevel [63ms]
+2023-02-26 11:42:50.244 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:50.309 [info] > git rev-parse --show-toplevel [60ms]
+2023-02-26 11:42:50.309 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:42:51.871 [info] > git rev-parse --show-toplevel [62ms]
+2023-02-26 11:42:51.872 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+2023-02-26 11:43:03.203 [info] > git rev-parse --show-toplevel [105ms]
+2023-02-26 11:43:03.204 [info] fatal: detected dubious ownership in repository at '//wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '%(prefix)///wsl.localhost/Ubuntu/home/oqzn/Documents/rails_docker/src'
